@@ -1,0 +1,6 @@
+{
+  "name": "medot",
+  "description": "Senior-friendly medication clock and reminder app with an interactive Roman-numeral analog dial, reliable alarms, and dose tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
